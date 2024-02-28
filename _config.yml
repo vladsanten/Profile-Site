@@ -18,9 +18,9 @@ minimal_mistakes_skin    :  "dark" #"default" # "air", "aqua", "contrast", "dark
 locale: "es-CO"
 title                    : "DataSapiens"
 title_separator          : "-"
-subtitle                 : Donde los Datos se Encuentran con la Creatividad...
+subtitle                 : Donde los datos se encuentran con la Creatividad...
 name                     : "Vladimir Sanchez Tenjo"
-description              : "I want to be a statistician and data scientist."
+description              : "I want to be a Statistician and Data Scientist."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -112,7 +112,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:vladsanten@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
