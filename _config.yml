@@ -12,11 +12,11 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    :  "dark" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" #"dark" #"default" #  "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale: "es-CO"
-title                    : "DataSapiens"
+title                    : "Data Sapiens"
 title_separator          : "-"
 subtitle                 : Donde los datos se encuentran con la Creatividad...
 name                     : "Vladimir Sanchez Tenjo"
@@ -106,9 +106,9 @@ analytics:
 author:
   name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "I want to be a <code>Statistician</code> and <code>Data Scientist</code>."
+  location         : "Bogotá D.C, Colombia"
+  email            : "vladsanten@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
