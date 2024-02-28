@@ -1,9 +1,9 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
+Welcome to Jekyll!
+
+This config file is meant for settings that affect your entire site, values
+which you are expected to set up once and rarely need to edit after that.
+For technical reasons, this file is *NOT* reloaded automatically when you use
+ `jekyll serve`. If you change this file, please restart the server process.
 
 # Theme Settings
 #
@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" #"dark" #"default" #  "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "air" #"dark" #"default" #  "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale: "es-CO"
@@ -104,13 +104,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Vladimir Sanchez Tenjo"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I want to be a <code>Statistician</code> and <code>Data Scientist</code>."
+  bio              : "I want to be a <code>Statistician </code> and <code> Data Scientist</code>."
   location         : "Bogotá D.C, Colombia"
   email            : "vladsanten@gmail.com"
   links:
-    - label: "Email"
+    - label: "email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:vladsanten@gmail.com"
     - label: "Website"
