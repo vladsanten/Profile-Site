@@ -1,9 +1,9 @@
-Welcome to Jekyll!
+# Welcome to Jekyll!
 
-This config file is meant for settings that affect your entire site, values
-which you are expected to set up once and rarely need to edit after that.
-For technical reasons, this file is *NOT* reloaded automatically when you use
- `jekyll serve`. If you change this file, please restart the server process.
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve`. If you change this file, please restart the server process.
 
 # Theme Settings
 #
@@ -12,7 +12,7 @@ For technical reasons, this file is *NOT* reloaded automatically when you use
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "contrast" # "air" #"dark" #"default" #  "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" #,"contrast" # "air" #"dark" #"default" #  "aqua", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale: "es-CO"
@@ -23,7 +23,7 @@ name                     : "Vladimir Sanchez Tenjo"
 description              : "I want to be a Statistician and Data Scientist."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "https://github.com/vladsanten"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -49,7 +49,7 @@ comments:
     category_id          : # Shown during giscus setup at https://giscus.app
     discussion_term      : # "pathname" (default), "url", "title", "og:title"
     reactions_enabled    : # '1' for enabled (default), '0' for disabled
-    theme                : # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
+    theme                : "light"  # (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
   staticman:
     branch               : # "master"
     endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
