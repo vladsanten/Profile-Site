@@ -118,7 +118,7 @@ author:
       # url: "https://your-website.com"
     - label: "https://twitter.com/TenVlad"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/TenVlad" # Modificar
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
