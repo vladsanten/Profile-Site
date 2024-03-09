@@ -110,7 +110,7 @@ author:
   location         : "Bogotá D.C, Colombia"
   email            : "vladsanten@gmail.com"
   links:
-    - label: "email"
+    - label: "vladsanten@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:vladsanten@gmail.com"
     - label: "Website"
