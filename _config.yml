@@ -108,9 +108,9 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I want to be a <code>Statistician </code> and <code> Data Scientist</code>."
   location         : "Bogotá D.C, Colombia"
-  #email            : "vladsanten@gmail.com"
+  email            : "vladsanten@gmail.com"
   links:
-    - label: "vladsanten@gmail.com"
+    - label: #"vladsanten@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:vladsanten@gmail.com"
     - label: "Website"
