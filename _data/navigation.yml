@@ -5,7 +5,7 @@ main:
   # https://vladsanten.github.io/Profile-Site/docs/_docs/01-Bio.md
   # docs/_docs/01-Bio.md #  https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "Sample Posts"
   #   url: /year-archive/
   - title: "Sample Collections"
