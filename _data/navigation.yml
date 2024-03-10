@@ -2,7 +2,7 @@
 main:
   #- title: "Bio - Sobre Mí" 
   # url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/ #https://github.com/vladsanten/Profile-Site/docs/Bio/
-  - title: "About"
+  - title: "Bio - Sobre Mí"
     url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "Sample Posts"
   #   url: /year-archive/
