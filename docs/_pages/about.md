@@ -16,7 +16,7 @@ last_modified_at: 2022-05-27T11:59:26-04:00
 toc: true
 ---
 
-Soy Vladimir Sánchez Tenjo, estadístico con conocimientos e intereses en... :smile:.
+Soy Vladimir Sánchez Tenjo, estadístico con conocimientos e intereses en.. :smile:.
 
 {% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %}
 
