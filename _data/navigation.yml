@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Bio - Sobre Mí" 
-    url: https://github.com/vladsanten/Profile-Site/blob/ffe5690c4564cac3326311d9244b1f83e7ad4c0b/docs/_docs/01-Bio.md
+    url: https://github.com/vladsanten/Profile-Site/docs/Bio/
   - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "Sample Posts"
