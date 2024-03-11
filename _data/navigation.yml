@@ -3,7 +3,7 @@ main:
   #- title: "Bio - Sobre Mí" 
   # url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/ #https://github.com/vladsanten/Profile-Site/docs/Bio/
   - title: "Bio - Sobre Mí"
-    url: https://github.com/vladsanten/Profile-Site/blob/master/docs/_pages/about.md
+    url: /docs/Bio/
     # https://vladsanten.github.io/Profile-Site/about/
   - title: "Sample Postss"
   #   url: /year-archive/
